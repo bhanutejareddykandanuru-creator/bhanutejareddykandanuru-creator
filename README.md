@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->## Hi there 👋
 
 I am a developer focused on AI and building agentic systems.
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhanutejareddykandanuru-creator&show_icons=true&theme=radium)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhanutejareddykandanuru-creator&layout=compact&theme=radium)
 ![](https://komarev.com/ghpvc/?username=bhanutejareddykandanuru-creator&color=blue)
 
 ### 🛠️ My Skills
