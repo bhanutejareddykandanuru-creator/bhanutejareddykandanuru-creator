@@ -20,6 +20,10 @@ I am a developer focused on AI and building agentic systems.
 ### 🛠️ My Skills
 * **Languages:** Python, C++, C
 * **Frameworks & Concepts:** LangGraph, Data Structures & Algorithms (DSA)
+* ### 💻 Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhanutejareddy-kandanuru-51b3443a5/)
