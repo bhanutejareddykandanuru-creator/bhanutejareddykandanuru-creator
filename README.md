@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->## Hi there 👋
 
 I am a developer focused on AI and building agentic systems.
+![](https://komarev.com/ghpvc/?username=bhanutejareddykandanuru-creator&color=blue)
 
 ### 🛠️ My Skills
 * **Languages:** Python, C++, C
